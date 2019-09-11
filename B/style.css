@@ -1,4 +1,11 @@
 body
 {
-    color:blue;
+    color:deeppink;
+}
+#donut
+{
+    background-image: url(../imgs/Dunkin-Donuts-Vanilla-Sprinkled.jpg);
+}
+a:hover {
+  background-color: skyblue;
 }
