@@ -2,10 +2,12 @@ body
 {
     color:deeppink;
 }
-#donut
+table
 {
     background-image: url(../imgs/Dunkin-Donuts-Vanilla-Sprinkled.jpg);
 }
 a:hover {
   background-color: skyblue;
 }
+html{background-color: aquamarine;
+background-image: url(../imgs/pancake_PNG111.png);}

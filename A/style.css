@@ -1,4 +1,13 @@
 body
 {
-    color:green;
+    color:darkblue;
 }
+table
+{
+    background-image: url(../imgs/blueberries_PNG30.png);
+}
+a:hover {
+  background-color: darkseagreen;
+}
+html{background-color:gainsboro;
+background-image: url(../imgs/500gfpx-Bacon.png);}
